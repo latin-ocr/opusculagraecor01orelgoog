@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculagraecor01orelgoog_0175.png"; bbox 0 0 2772 4745; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 1219 2196 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 1219 2196 1360">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 1219 2196 1360; baseline -0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 195 1219 1075 1350; x_wconf 67' lang='grc' dir='ltr'><em>ΑΡΙΣΤΙΠΠΟΥ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1100 1255 1265 1348; x_wconf 83' lang='lat' dir='ltr'><strong>To</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1282 1259 1371 1346; x_wconf 80' lang='lat' dir='ltr'><strong><em>Y</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1385 1253 2102 1360; x_wconf 68' lang='lat' dir='ltr'><strong><em>RYPHNAIO</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2119 1256 2196 1346; x_wconf 73' lang='grc' dir='ltr'><em>ῑ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 54 1451 2376 1527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 54 1451 2376 1527">
+     <span class='ocr_line' id='line_1_2' title="bbox 54 1451 2376 1527; baseline -0.001 -15"><span class='ocrx_word' id='word_1_6' title='bbox 54 1451 757 1527; x_wconf 25' lang='grc' dir='ltr'><strong><em>,ΓΝΩΜΑΙ</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 877 1451 1123 1516; x_wconf 77' lang='grc' dir='ltr'><strong>ΚΑΙ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1241 1451 2230 1520; x_wconf 74' lang='grc' dir='ltr'><strong>ΑΠΟΦΘΕΓΜΑΤΛ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2369 1497 2376 1509; x_wconf 90' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 431 2151 1972 2248">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 431 2151 1972 2248">
+     <span class='ocr_line' id='line_1_3' title="bbox 431 2151 1972 2248; baseline -0.001 -8"><span class='ocrx_word' id='word_1_10' title='bbox 431 2151 1137 2248; x_wconf 84' lang='lat' dir='ltr'>ARISTIPPI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1264 2151 1972 2240; x_wconf 82' lang='lat' dir='ltr'><strong>CYRENAEI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 222 2316 2206 2591">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 222 2316 2206 2591">
+     <span class='ocr_line' id='line_1_4' title="bbox 222 2316 2206 2445; baseline 0.002 -18"><span class='ocrx_word' id='word_1_12' title='bbox 222 2351 919 2427; x_wconf 75' lang='lat' dir='ltr'><strong>SENTENTIAE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1001 2355 1135 2425; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1220 2316 2206 2445; x_wconf 59' lang='lat' dir='ltr'>AROPHTHEGMATA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 260 2526 1972 2591; baseline -0.005 0"><span class='ocrx_word' id='word_1_15' title='bbox 260 2576 273 2591; x_wconf 91' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 445 2530 546 2585; x_wconf 73' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 578 2526 927 2583; x_wconf 74' lang='lat' dir='ltr'>DIVERSIS</span> <span class='ocrx_word' id='word_1_18' title='bbox 971 2528 1520 2587; x_wconf 72' lang='lat' dir='ltr'><strong>semronmus</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1555 2528 1972 2587; x_wconf 73' lang='lat' dir='ltr'>COLLECTA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 998 2770 1420 2795">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 998 2770 1420 2795">
+     <span class='ocr_line' id='line_1_6' title="bbox 998 2770 1420 2795; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 998 2770 1420 2795; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
